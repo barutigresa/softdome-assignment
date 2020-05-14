@@ -10,7 +10,7 @@ import java.util.List;
 import static com.softdome.assignment.CapacityUtilization.getFreeCapacities;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class TestUtilizationCapacity {
+public class TestCapacityUtilization {
 
     @Test
     public void TestExpectedCapacitiesCase1(){
